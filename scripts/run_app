@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -itd --name war-lidor -p 5000:5000 danyaabushameh/final-python:latest
+docker run -itd --name final-python -p 5000:5000 danyaabushameh/final-python:latest
